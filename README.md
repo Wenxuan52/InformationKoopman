@@ -1,6 +1,6 @@
 # Information Shapes Koopman Presentation
 
-## Abstract
+#### Abstract
 
 The Koopman operator provides a powerful framework for modeling dynamical systems and has attracted growing interest in deep learning. Yet its infinite-dimensional nature makes identifying suitable finite-dimensional subspaces challenging, especially for deep architectures. We argue these difficulties are from representation learning, where latent variables fail to balance expressivity and simplicity. This tension is closely related to the information bottleneck (IB) dilemma: constructing compressed representations that are both compact and predictive. Rethinking Koopman learning through this lens, we demonstrate that latent mutual information governs enforcing simplicity, yet an overemphasis on simplicity may induce latent space collapse to few dominant modes. In contrast, expressiveness is sustained by the von Neumann entropy, which prevents such collapse and encourage sufficient modes. This insight leads us to propose an information-theoretic Lagrangian formulation that explicitly balances this tradeoff. Also, we propose a new algorithm based on the Lagrangian formulation that encourages both simplicity and expressiveness, leading to a stable and interpretable Koopman representation. Beyond quantitative evaluations, we further visualize the learned manifolds under our representations, observing empirical results consistent with our theoretical predictions. Finally, we validate our approach across a diverse range of dynamical systems, demonstrating improved performance.
 
