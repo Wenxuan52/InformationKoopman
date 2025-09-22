@@ -1,0 +1,13 @@
+save_folder: '../../../results/Dam/model_weights'
+seq_length: 12
+num_epochs: 300
+decay_step: 20
+batch_size: 12
+learning_rate: 0.001
+decay_rate: 0.8
+lamb: 0.1
+alpha: 2.0
+beta: 0.1
+mi_k: 3
+mi_temperature: 0.07
+patience: 50
