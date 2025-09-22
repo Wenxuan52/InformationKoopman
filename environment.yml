@@ -1,0 +1,14 @@
+name: InfoKoopman
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - seaborn
+  - pytorch
+  - h5py
+  - pyyaml
+  - tqdm
+  - scikit-learn
+  - torchvision
