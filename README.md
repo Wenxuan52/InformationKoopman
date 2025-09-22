@@ -1,7 +1,5 @@
 # Information Shapes Koopman Presentation
 
-### Architecture
-
 ![illustration](./figures/structure.png)
 
 ### Abstract
@@ -58,7 +56,5 @@ conda activate InfoKoopman
 
 
 ## Contact
-
-For questions and feedback, feel free to reach out: Xiaoyuan Cheng (zcahyy1@ucl.ac.uk)
 
 If you encounter any issues, please open an issue on GitHub.
