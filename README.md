@@ -57,6 +57,9 @@ conda activate InfoKoopman
 
 Currently, this repository only contains the physical simulation experiments. The remaining experiment code will be released upon the paper’s acceptance.
 
+## Paper Link
+
+https://arxiv.org/abs/2510.13025
 
 ## Contact
 
