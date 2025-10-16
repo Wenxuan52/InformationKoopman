@@ -53,6 +53,9 @@ conda activate InfoKoopman
 ``` pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121``` 
 
 
+## Code Availability
+
+Currently, this repository only contains the physical simulation experiments. The remaining experiment code will be released upon the paper’s acceptance.
 
 
 ## Contact
