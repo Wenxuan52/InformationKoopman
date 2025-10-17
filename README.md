@@ -57,9 +57,31 @@ conda activate InfoKoopman
 
 Currently, this repository only contains the physical simulation experiments. The remaining experiment code will be released upon the paper’s acceptance.
 
-## Paper Link
+## Paper Link and Citation
 
-https://arxiv.org/abs/2510.13025
+**Paper:** [Information Shapes Koopman Representation](https://arxiv.org/abs/2510.13025)
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+@misc{cheng2025informationshapeskoopmanrepresentation,
+      title={Information Shapes Koopman Representation}, 
+      author={Xiaoyuan Cheng and Wenxuan Yuan and Yiming Yang and Yuanzhao Zhang and Sibo Cheng and Yi He and Zhuo Sun},
+      year={2025},
+      eprint={2510.13025},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.13025}, 
+}
+```
+
+## Contribution
+
+This work is the result of close collaboration between all authors.
+
+- **Xiaoyuan Cheng** led the overall project, proposed the core ideas, and guided both the theoretical development and experimental implementation.
+- **Wenxuan Yuan** led the physical simulation experiments and created the key methodological figures.
+- **Yiming Yang, Yuanzhao Zhang, Sibo Cheng, Yi He, and Zhuo Sun** contributed to writing and revising the manuscript.
 
 ## Contact
 
