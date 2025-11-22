@@ -75,14 +75,6 @@ If you find this work useful in your research, please consider citing:
 }
 ```
 
-## Contribution
-
-This work is the result of close collaboration between all authors.
-
-- **Xiaoyuan Cheng** led the overall project, proposed the core ideas, and guided both the theoretical development and experimental implementation.
-- **Wenxuan Yuan** led the physical simulation experiments and created the key methodological figures.
-- **Yiming Yang, Yuanzhao Zhang, Sibo Cheng, Yi He, and Zhuo Sun** contributed to writing and revising the manuscript.
-
 ## Contact
 
 If you encounter any issues, please open an issue on GitHub.
